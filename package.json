@@ -12,7 +12,7 @@
   "dependencies": {
     "@astrojs/markdoc": "^2.0.1",
     "@astrojs/react": "^6.0.0",
-    "@astrojs/vercel": "^9.0.0",
+    "@astrojs/vercel": "latest",
     "@keystatic/astro": "^5.0.0",
     "@keystatic/core": "^0.5.0",
     "@types/react": "^19.2.18",
